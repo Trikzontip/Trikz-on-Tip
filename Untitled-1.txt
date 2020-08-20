@@ -1,0 +1,17 @@
+<div class="pro">
+		<p class="color--white large noe one">02</p>
+		<p class="color--white large two">FEATURED PROJECTS</p>
+		
+	</div>
+	<p class="color--white large line">__________________________________________________</p>
+  
+				<div class="project">
+					<div class="list">
+						<a href=""><p>Trikz Movies</p></a><hr>
+						<p>Good Things Coming Soon</p><hr>
+						<a href=""><p>Trikz Store</p></a><hr>
+					</div>
+					<div class="listimg">
+					
+					</div>
+				</div>	
